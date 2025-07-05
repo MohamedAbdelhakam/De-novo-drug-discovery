@@ -25,8 +25,7 @@ Key features:
 ## ⚙️ Installation
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/drug-discovery-graduation
-   cd drug-discovery-graduation
+   git clone https://github.com/MohamedAbdelhakam/De-novo-drug-discovery
    ```
 
 2. **Install REINVENT4**
